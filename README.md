@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChaeheePark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/chaevellly)](https://blog.naver.com/chaevellly)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaeheepark99@gmail.com)](mailto:chaeheepark99@gmail.com)
+	
