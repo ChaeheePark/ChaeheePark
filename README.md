@@ -1,17 +1,19 @@
-### Chaehee's Github 👩‍💻
-
-<!--
-**ChaeheePark/ChaeheePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaeheePark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChaeheePark)](https://github.com/anuraghazra/github-readme-stats)
+### CHAEHEE PARK(박채희), 1999.03.08, 🇰🇷  
+> 💻 **AI**, ,**Data Analysis**, **Marchine Learning**, **Deep Learning**, **back-end**
+> 📝 Studying **Algorithm**, **Operating System**, **Computer Network**, **Database**
+> 👩‍💻 **C++**, **Python**, **SQL**, **JAVA**, **JAVASCRIPT**
+> 🎹  Hobby is **playing band music (keyboard session)**, Interested In **e-sports**
 
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/chaevellly)](https://blog.naver.com/chaevellly)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaeheepark99@gmail.com)](mailto:chaeheepark99@gmail.com)
 
-Technology Stack : C, C++, python, java, javascript, html, css, MySQL ...
+#### 학력  
+동화고등학교 졸업 (2015.03 ~ 2018.02) 
+상명대학교 휴먼지능정보공학과 재학중 (2019.02 ~ 재학)
 
-Interested In : back-end develope, Machine Learning, Deep Learning, AI, database ...
+
+
+#### 프로젝트
+
+
+
+#### 대회
