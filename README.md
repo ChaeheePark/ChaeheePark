@@ -1,5 +1,5 @@
 ## CHAEHEE PARK(박채희), 1999.03.08
-> 💻 **AI**, ,**Data Analysis**, **Machine Learning**, **Deep Learning**, **back-end**
+> 💻 **AI** ,**Data Analysis**, **Machine Learning**, **Deep Learning**, **back-end**
 > 
 > 📝 Studying **Algorithm**, **Operating System**, **Computer Network**, **Database**
 > 
