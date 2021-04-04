@@ -5,8 +5,7 @@
 > 
 > 👩‍💻 **C++**, **Python**, **SQL**, **JAVA**, **JAVASCRIPT**
 > 
-> 🎹  Hobby is **playing band music (keyboard session)**, Interested In **e-sports**
-
+> 🎹  Hobby is **playing band music (keyboard session)**
 
 
 #### 학력  
