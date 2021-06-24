@@ -18,6 +18,7 @@
 #### 프로젝트
 >[상명대학교 상생플러스 (2020학년도 1학기)](http://github.com/ChaeheePark/LEWA)
 >> 뉴스 기사 크롤링해서 영단어 학습 시켜주는 웹 사이트 제작
+>> 
 >[상명대학교 상생플러스 (2020학년도 2학기)](https://github.com/ChaeheePark/DATA_IS_FUTURE)
 >
 >[상명대학교 상생플러스 (2021학년도 1학기)](https://github.com/ChaeheePark/commercial_analysis)
