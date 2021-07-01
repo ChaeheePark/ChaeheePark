@@ -17,13 +17,14 @@
 
 #### 프로젝트
 >[상명대학교 상생플러스 (2020학년도 1학기)](http://github.com/ChaeheePark/LEWA)
->> 영어뉴스 기사 크롤링해서 영단어 학습 시켜주는 웹 사이트 제작
+>> 영어뉴스 기사 크롤링해서 영단어 학습 시켜주는 웹 사이트 
 >> 
 >[상명대학교 상생플러스 (2020학년도 2학기)](https://github.com/ChaeheePark/DATA_IS_FUTURE)
 >
 >[상명대학교 상생플러스 (2021학년도 1학기)](https://github.com/ChaeheePark/commercial_analysis)
 >
 >[인공지능기초 프로젝트 (2021학년도 1학기)](http://github.com/ChaeheePark/SMUS)
+>> 사물 인식 기술을 이용한 품목별 택배 운송 패킹 전략 추천 서비스 
 >> 
 >[심층학습 프로젝트(2021학년도 1학기)](http://github.com/ChaeheePark)
 >>
