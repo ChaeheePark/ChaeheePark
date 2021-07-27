@@ -1,11 +1,11 @@
 ## CHAEHEE PARK(박채희), 1999.03.08
 > 💻 **AI** (**Machine Learning**, **Deep Learning**),**Data Analysis**, **back-end**
 > 
-> 📝 Studying **Algorithm**, **Operating System**, **Computer Network**, **Database**
+> 📝 Studying **deep-learning**, **Machine Learning**, **Database**, **Algorithm**, **Operating System**, **Computer Network** ... 
 > 
-> 👩‍💻 **C++**, **Python**, **SQL**, **JAVA**, **JAVASCRIPT**
+> 👩‍💻 **Python**, **C++**, **SQL**, **JAVA**, **JAVASCRIPT**
 > 
-> 🎹  Hobby is **playing band music (keyboard session)**
+> 🎹 Hobby is **playing band music (keyboard session)**
 
 
 #### 학력  
@@ -13,6 +13,13 @@
 >
 >상명대학교 휴먼지능정보공학과 재학중 (2019.02 ~ 재학)
 
+
+#### 활동
+>데이터 분석 동아리 (2020.03 ~ 진행중)
+>
+>데이터 청년 캠퍼스 (2021.06 ~ 진행중)
+>
+>LINK+ 사업단 산학공동기술개발과제 학부연구원 (2021.06 ~ 진행중)
 
 
 #### 프로젝트
@@ -26,9 +33,9 @@
 >[인공지능기초 프로젝트 (2021학년도 1학기)](http://github.com/ChaeheePark/SMUS)
 >> 사물 인식 기술을 이용한 품목별 택배 운송 패킹 전략 추천 서비스 
 >> 
->[심층학습 프로젝트(2021학년도 1학기)](http://github.com/ChaeheePark)
+>[심층학습 프로젝트(2021학년도 1학기)](https://github.com/smu-deep-learning)
 >>
->[소프트웨어공학 프로젝트(2021학년도 1학기)](http://github.com/ChaeheePark)
+>[소프트웨어공학 프로젝트(2021학년도 1학기)](https://github.com/smu-sw-engineering)
 
 
 #### 대회
