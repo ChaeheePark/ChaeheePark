@@ -33,7 +33,7 @@
 >[인공지능기초 프로젝트 (2021학년도 1학기)](http://github.com/ChaeheePark/SMUS)
 >> 사물 인식 기술을 이용한 품목별 택배 운송 패킹 전략 추천 서비스 
 >> 
->[심층학습 프로젝트(2021학년도 1학기)](https://github.com/smu-deep-learning)
+>[심층학습 프로젝트(2021학년도 1학기)](https://github.com/smu-deep-learning-project)
 >>
 >[소프트웨어공학 프로젝트(2021학년도 1학기)](https://github.com/smu-sw-engineering)
 
