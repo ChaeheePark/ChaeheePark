@@ -1,5 +1,5 @@
 ## CHAEHEE PARK(박채희), 1999.03.08
-> 💻 **AI** (**Machine Learning**, **Deep Learning**),**Data Analysis**, **back-end**
+> 💻 **AI** (**Machine Learning**, **Deep Learning**), **Data Analysis**, **back-end**
 > 
 > 📝 Studying **deep-learning**, **Machine Learning**, **Database**, **Algorithm**, **Operating System**, **Computer Network** ... 
 > 
@@ -30,7 +30,7 @@
 >> 스타트업 가치 분석해서 투자 가능성 알려주는 프로그램
 >>
 >[상명대학교 상생플러스 (2021학년도 1학기)](https://github.com/ChaeheePark/commercial_analysis)
->> 예비 창업자를 위한 서울시 AI 상권분석 서비스
+>> 예비 창업자를 위한 서울특별시 AI 상권분석 서비스
 >> 
 >[인공지능기초 프로젝트 (2021학년도 1학기)](http://github.com/ChaeheePark/SMUS)
 >> 사물 인식 기술을 이용한 품목별 택배 운송 패킹 전략 추천 서비스 
