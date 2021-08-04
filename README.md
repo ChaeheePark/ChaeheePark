@@ -19,7 +19,7 @@
 >
 >데이터 청년 캠퍼스 (2021.06 ~ 진행중)
 >
->[LINK+ 사업단 산학공동기술개발과제 학부연구원 (2021.06 ~ 진행중)](http://github.com/ChaeheePark/RCNN_PROJECT)
+>[LINC+ 사업단 산학공동기술개발과제 학부연구원 (2021.06 ~ 진행중)](http://github.com/ChaeheePark/RCNN_PROJECT)
 
 
 #### 프로젝트
