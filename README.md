@@ -35,7 +35,7 @@
 >
 >[소프트웨어공학 프로젝트(2021학년도 1학기)](https://github.com/smu-sw-engineering) : 캠핑장 예약 관리 모바일 앱 개발 프로젝트
 >
->[데이터 청년 캠퍼스 프로젝트(2021학년도 여름방학)](https://github.com/Data-Analysis-Slogan) : 
+>[데이터 청년 캠퍼스 프로젝트(2021학년도 여름방학)](https://github.com/Data-campus-SloganAnalysis) : 친환경 사업을 진행하는 기업 이미지에 대한 감성사전 구축
 #### 대회
 >dacon
 >>운동 동작 분류 AI 경진대회 (61.9%) 208/336
