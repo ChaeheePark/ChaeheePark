@@ -36,8 +36,7 @@
 >
 >[데이터 청년 캠퍼스 프로젝트(2021학년도 여름방학)](https://github.com/Data-campus-SloganAnalysis/Main) : 친환경 사업을 진행하는 기업 이미지에 대한 감성사전 구축
 >
->[기계학습 프로젝트(2021학년도 2학기)](https://github.com/ChaeheePark/modelgirls) : 무신사 가상 피팅 서비스
-
+>[기계학습 프로젝트(2021학년도 2학기)](https://github.com/ChaeheePark/modelgirls) : VITON-HD를 이용한 무신사 제품 가상 피팅 서비스
 #### 대회
 >dacon
 >>운동 동작 분류 AI 경진대회 (61.9%) 208/336
