@@ -1,5 +1,5 @@
 ## CHAEHEE PARK(박채희), 1999.03.08
-> 💻 **AI** (**Machine Learning**, **Deep Learning**), **Data Analysis**, **back-end**
+> 💻 Interested in **Computer Vision**, **NLP** 
 > 
 > 📝 Studying **deep-learning**, **Machine Learning**, **Database**, **Algorithm**, **Operating System**, **Computer Network** ... 
 > 
