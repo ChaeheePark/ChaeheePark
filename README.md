@@ -41,4 +41,4 @@
 >dacon
 >>운동 동작 분류 AI 경진대회 (61.9%) 208/336
 >
->>[2021년(제2회) NH투자증권 빅데이터 경진대회 (17.6%) 47/267](github.com/ChaheePark/NH_Bigdata_Contest)
+>>[2021년(제2회) NH투자증권 빅데이터 경진대회 (17.6%) 47/267](https://github.com/ChaeheePark/NH_Bigdata_Contest)
