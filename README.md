@@ -38,5 +38,5 @@
 
 
 #### 대회
->dacon
+>DACON
 >>[2021년(제2회) NH투자증권 빅데이터 경진대회 (17.6%) 47/267](https://github.com/ChaeheePark/NH_Bigdata_Contest)
