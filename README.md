@@ -40,4 +40,5 @@
 #### 대회
 >DACON
 >>[2021년(제2회) NH투자증권 빅데이터 경진대회 (17.6%) 47/267](https://github.com/ChaeheePark/NH_Bigdata_Contest)
+>>
 >>SW중심대학 공동 AI 경진대회 ❮예선❯ (11.97%) 23/19
