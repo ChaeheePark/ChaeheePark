@@ -1,7 +1,7 @@
 ## CHAEHEE PARK(박채희), 1999.03.08
-> 💻 Interested in **NLP**, **CV**, **Data analysis**
+> 💻 Interested in **NLP**, **Chatbot**, **Multi-modal**, **Sentiment-Analysis**
 > 
-> 📝 Studying **Deep-learning**, **Machine Learning**, **Computer Vision**, **NLP**, **Database**, **Algorithm**, **Operating System**, **Computer Network** ... 
+> 📝 Studying **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
 > 
 > 👩‍💻 **Python**, **C++**, **SQL**, **JAVA**, **JAVASCRIPT**
 > 
@@ -19,6 +19,8 @@
 >[데이터 청년 캠퍼스 (2021.06 ~ 2021.08.31)](http://github.com/ChaeheePark/data_campus_2021)
 >
 >[LINC+ 사업단 산학공동기술개발과제 학부연구원 (2021.06 ~ 2021.10)](http://github.com/ChaeheePark/RCNN_PROJECT)
+>
+> NCSOFT 언어이해기술실 언어데이터팀 프로젝트 인턴쉽 (2022.06 ~ 2022.09)
 
 
 #### 프로젝트
@@ -35,6 +37,10 @@
 >[기계학습 프로젝트 (2021학년도 2학기)](https://github.com/ChaeheePark/modelgirls) : VITON-HD를 이용한 무신사 제품 가상 피팅 서비스
 >
 >[자연어처리 프로젝트 (2021학년도 2학기)](https://github.com/ChaeheePark/novelgirls) : 얼굴 묘사글을 이용한 소설 작문 프로젝트
+>
+>[졸업 프로젝트 (2022년도 1,2학기)](http://github.com/ChaeheePark/) :
+>
+>[졸업 프로젝트 (2022학년도 2학기)](http://github.com/ChaeheePark/) : 
 
 
 #### 대회
