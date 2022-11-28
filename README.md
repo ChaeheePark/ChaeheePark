@@ -38,7 +38,7 @@
 >
 >[자연어처리 프로젝트 (2021학년도 2학기)](https://github.com/ChaeheePark/novelgirls) : 얼굴 묘사글을 이용한 소설 작문 프로젝트
 >
->[졸업 프로젝트 (2022년도 1,2학기)](http://github.com/ChaeheePark/) :
+>[졸업 프로젝트 (2022학년도 1,2학기)](http://github.com/ChaeheePark/) :
 >
 >[졸업 프로젝트 (2022학년도 2학기)](http://github.com/ChaeheePark/) : 
 
