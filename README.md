@@ -38,7 +38,7 @@
 >
 >[자연어처리 프로젝트 (2021학년도 2학기)](https://github.com/ChaeheePark/novelgirls) : 얼굴 묘사글을 이용한 소설 작문 프로젝트
 >
->[졸업 프로젝트 (2022학년도 1,2학기)](http://github.com/ChaeheePark/) :
+>[졸업 프로젝트 (2022학년도 1,2학기)](https://github.com/ChaeheePark/XAI-Emotionally-Supportive-Conversations) : 정서적 지지형 감성 대화 생성에 대한 설명 가능 딥러닝 모델 제안
 >
 >[졸업 프로젝트 (2022학년도 2학기)](http://github.com/ChaeheePark/) : 
 
