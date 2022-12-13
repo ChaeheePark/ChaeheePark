@@ -1,4 +1,7 @@
 ## CHAEHEE PARK(박채희), 1999.03.08
+
+Hello! I'm Chaehee Park!
+
 > 💻 Interested in **Sentiment-Analysis**, **Mental-Health**, **AI-System**
 > 
 > 📝 Studying **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
@@ -10,7 +13,8 @@
 #### 학력  
 >동화고등학교 졸업 (2015.03 ~ 2018.02) 
 >
->상명대학교 서울캠퍼스 휴먼지능정보공학과 , 인공지능융합학과 학사 졸업 (2019.03 ~ 2023.02)
+>상명대학교 서울캠퍼스 휴먼지능정보공학과, 인공지능융합학과 학사 졸업 (2019.03 ~ 2023.02)
+>
 >성균관대학교 인공지능융합학과 대학원 재학중 (2022.12 ~ 현재)
 
 
