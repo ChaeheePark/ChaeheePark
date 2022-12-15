@@ -9,19 +9,18 @@ Hello! I'm Chaehee Park!
 👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R**!
 
 
+
 ### EDUCATION
-Sangmyung University, Seoul, South Korea, March 2019 - Feb. 2023
-- B.S. in Human-centered AI, Applied AI
+SangMyung University, Seoul, South Korea, March 2019 - Feb. 2023
+- B.S in Human-centered AI, Applied AI
+
+SungKyunKwan University, Seoul, South Korea,  March 2023 - Current
+- M.Sc in Applied AI
 
 
-#### 활동
->[데이터 분석 동아리 (2020.03 ~ 진행중)](http://github.com/ChaeheePark/Data_Analysis)
->
->[데이터 청년 캠퍼스 (2021.06 ~ 2021.08.31)](http://github.com/ChaeheePark/data_campus_2021)
->
->[LINC+ 사업단 산학공동기술개발과제 학부연구원 (2021.06 ~ 2021.10)](http://github.com/ChaeheePark/RCNN_PROJECT)
->
-> NCSOFT 언어이해기술실 언어데이터팀 프로젝트 인턴쉽 (2022.06 ~ 2022.09)
+
+### RESEARCH EXPERIENCE
+NCSOFT Language AI center, Language AI Team Project Intern  June 2022 - Sep. 2022 
 
 
 #### 프로젝트
