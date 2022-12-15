@@ -1,21 +1,17 @@
 ## CHAEHEE PARK(박채희), 1999.03.08
 
-Hello! I'm Chaehee Park!
+Hello! I'm Chaehee Park! 
 
-> 💻 Interested in **Sentiment-Analysis**, **Mental-Health**, **AI-System**
-> 
-> 📝 Studying **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
-> 
-> 👩‍💻 **Python**, **C++**, **SQL**, **JAVA**, **JAVASCRIPT**
-> 
+💻 I'm interested in **Sentiment-Analysis**, **Mental-Health**, **AI-System**
+
+📝 And Studied **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
+
+👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R**!
 
 
-#### 학력  
->동화고등학교 졸업 (2015.03 ~ 2018.02) 
->
->상명대학교 서울캠퍼스 휴먼지능정보공학과, 인공지능융합학과 학사 졸업 (2019.03 ~ 2023.02)
->
->성균관대학교 인공지능융합학과 대학원 재학중 (2022.12 ~ 현재)
+### EDUCATION
+Sangmyung University, Seoul, South Korea, March 2019 - Feb. 2023
+- B.S. in Human-centered AI, Applied AI
 
 
 #### 활동
