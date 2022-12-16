@@ -13,7 +13,7 @@ Hello! I'm Chaehee Park!
 #
 
 ### EDUCATION
-✔ **Sungkyunkwan University, Seoul, Republic of Korea,  March 2023 - **
+✔ **Sungkyunkwan University, Seoul, Republic of Korea,  March 2023 -**
 - M.Sc in Applied Artificial Intelligence  
 
 Sangmyung University, Seoul, Republic of Korea, March 2019 - Feb. 2023
