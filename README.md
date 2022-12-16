@@ -2,6 +2,7 @@
 
 Hello! I'm Chaehee Park! 
 
+
 💻 I'm interested in **Sentiment-Analysis**, **Mental-Health**, **AI-System**
 
 📝 And Studied **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
