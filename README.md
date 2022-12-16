@@ -32,7 +32,7 @@ Working as Language AI Research Project Intern,     June 2022 - Sep. 2022
 #### Computer Vision
 >[Recommended Service For Each Item's Delivery Transportation Packing Strategy using Object Detection](http://github.com/ChaeheePark/SMUS), March 2021 - July 2021
 >
->[Blinking Notification Service to Prevent Dry Eye Syndrome](https://github.com/smu-deep-learning-project), March 2021 - July 2021
+>[Blinking Notification Service to Prevent Dry Eye Syndrome](https://github.com/smu-deep-learning-project/in_out), March 2021 - July 2021
 >
 >[VITON-HD Virtual Fitting Service for MUSINSA Products](https://github.com/ChaeheePark/modelgirls), Sep. 2021 - Dec. 2021
 >
