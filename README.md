@@ -30,7 +30,7 @@ Working as Language AI Research Project Intern,     June 2022 - Sep. 2022
 #
 
 ### PUBLICATIONS
-"On the Deep Generative Models Explaining the Rationale to Emotionally Supportive Conversations," Eunhye Jun & **Chaehee Park** (equal contributions) & Hyejin Hong, and Jihang Lee*, KOSES Korea 2022, Busan, Oct. 2022. (Domestic) 
+"On the Deep Generative Models Explaining the Rationale to Emotionally Supportive Conversations," Eunhye Jung & **Chaehee Park** (equal contributions) & Hyejin Hong, and Jeehang Lee*, KOSES Korea 2022, Busan, Oct. 2022. (Domestic) 
 
 ### PROJECT
 #### Computer Vision
