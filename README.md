@@ -6,46 +6,46 @@ Hello! I'm Chaehee Park!
 
 📝 And Studied **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
 
-👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R**  
+👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R**
+
+➿ More Information, Please see my **CV**  
 #
 
 ### EDUCATION
 Sangmyung University, Seoul, South Korea, March 2019 - Feb. 2023
 - B.S. in Human-centered AI, Applied AI
 
-✔️ **Sungkyunkwan University, Seoul, South Korea,  March 2023 - Current**
+**Sungkyunkwan University, Seoul, South Korea,  March 2023 - Current**
 - M.Sc in Applied AI  
 #
+
+
 
 ### RESEARCH EXPERIENCE
 NC SOFT Corp., NLP Center,
 Working as Language AI Research Project Intern,     June 2022 - Sep. 2022 
 
-✔️ **Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Seoul, South Korea,  Dec. 2022 - Current**  
+**Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Seoul, South Korea,  Dec. 2022 - Current**  
 #
 
 ### PROJECT
->[상명대학교 상생플러스 (2020학년도 2학기)](https://github.com/ChaeheePark/DATA_IS_FUTURE) : 스타트업 가치 분석해서 투자 가능성 알려주는 서비스
+#### Computer Vision
+>[Recommended Service For Each Item's Delivery Transportation Packing Strategy using Object Detection](http://github.com/ChaeheePark/SMUS), March 2021 - July 2021
 >
->[상명대학교 상생플러스 (2021학년도 1학기)](https://github.com/ChaeheePark/commercial_analysis) : 예비 창업자를 위한 서울특별시 AI 상권분석 서비스
+>[Blinking Notification Service to Prevent Dry Eye Syndrome](https://github.com/smu-deep-learning-project), March 2021 - July 2021
 >
->[인공지능기초 프로젝트 (2021학년도 1학기)](http://github.com/ChaeheePark/SMUS) : 사물 인식 기술을 이용한 품목별 택배 운송 패킹 전략 추천 서비스 
+>[VITON-HD Virtual Fitting Service for MUSINSA Products](https://github.com/ChaeheePark/modelgirls), Sep. 2021 - Dec. 2021
 >
->[심층학습 프로젝트 (2021학년도 1학기)](https://github.com/smu-deep-learning-project) : 안구건조증 예방을 위한 눈 깜빡임 알림 서비스
->
->[데이터 청년 캠퍼스 프로젝트 (2021학년도 여름방학)](https://github.com/Data-campus-SloganAnalysis/Main) : 친환경 사업을 진행하는 기업 이미지에 대한 감성사전 구축
->
->[기계학습 프로젝트 (2021학년도 2학기)](https://github.com/ChaeheePark/modelgirls) : VITON-HD를 이용한 무신사 제품 가상 피팅 서비스
->
->[자연어처리 프로젝트 (2021학년도 2학기)](https://github.com/ChaeheePark/novelgirls) : 얼굴 묘사글을 이용한 소설 작문 프로젝트
->
->[졸업 프로젝트 (2022학년도 1,2학기)](https://github.com/ChaeheePark/XAI-Emotionally-Supportive-Conversations) : 정서적 지지형 감성 대화 생성에 대한 설명 가능 딥러닝 모델 제안
->
->[졸업 프로젝트 (2022학년도 2학기)](http://github.com/ChaeheePark/) : 
 
+#### NLP
+>[Emotional Dictionary on Companies Conducting Eco-Friendly Business](https://github.com/Data-campus-SloganAnalysis/Main), July 2021 - Aug. 2021
+>
+>[A Novel Writing Project using Facial Expressions](https://github.com/ChaeheePark/novelgirls), Sep. 2021 - Dec. 2021
+>
+>[On the Deep Generative Models Explaining the Rationale to Emotionally Supportive Conversations](https://github.com/ChaeheePark/XAI-Emotionally-Supportive-Conversations), March 2022 - Dec. 2022
+>
 
+#
 ### Competition
->DACON
->>[2021년(제2회) NH투자증권 빅데이터 경진대회 (17.6%) 47/267](https://github.com/ChaeheePark/NH_Bigdata_Contest)
->>
->>SW중심대학 공동 AI 경진대회 ❮예선❯ (11.97%) 23/19
+>[2021년(제2회) NH투자증권 빅데이터 경진대회 (17.6%) 47/267](https://github.com/ChaeheePark/NH_Bigdata_Contest)
+>
