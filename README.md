@@ -13,7 +13,7 @@ Hello! I'm Chaehee Park!
 #
 
 ### EDUCATION
-Donghwa High school, Namyangju, Gyeonggido, March 2015 - Feb.2018
+Donghwa High school, Namyangju, Gyeong-gi, March 2015 - Feb.2018
 
 Sangmyung University, Seoul, South Korea, March 2019 - Feb. 2023
 - B.S. in Human-centered AI, Applied AI
