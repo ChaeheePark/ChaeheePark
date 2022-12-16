@@ -6,24 +6,25 @@ Hello! I'm Chaehee Park!
 
 📝 And Studied **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
 
-👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R**!
-
-
+👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R**  
+#
 
 ### EDUCATION
-SangMyung University, Seoul, South Korea, March 2019 - Feb. 2023
-- B.S in Human-centered AI, Applied AI
+Sangmyung University, Seoul, South Korea, March 2019 - Feb. 2023
+- B.S. in Human-centered AI, Applied AI
 
-SungKyunKwan University, Seoul, South Korea,  March 2023 - Current
-- M.Sc in Applied AI
-
-
+**Sungkyunkwan University, Seoul, South Korea,  March 2023 - Current**
+- M.Sc in Applied AI  
+#
 
 ### RESEARCH EXPERIENCE
-NCSOFT Language AI center, Language AI Team Project Intern  June 2022 - Sep. 2022 
+NC SOFT Corp., NLP Center,
+Working as Language AI Research Project Intern,     June 2022 - Sep. 2022 
 
+**Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Seoul, South Korea,  Dec. 2022 - Current**  
+#
 
-#### 프로젝트
+### PROJECT
 >[상명대학교 상생플러스 (2020학년도 2학기)](https://github.com/ChaeheePark/DATA_IS_FUTURE) : 스타트업 가치 분석해서 투자 가능성 알려주는 서비스
 >
 >[상명대학교 상생플러스 (2021학년도 1학기)](https://github.com/ChaeheePark/commercial_analysis) : 예비 창업자를 위한 서울특별시 AI 상권분석 서비스
@@ -43,7 +44,7 @@ NCSOFT Language AI center, Language AI Team Project Intern  June 2022 - Sep. 202
 >[졸업 프로젝트 (2022학년도 2학기)](http://github.com/ChaeheePark/) : 
 
 
-#### 대회
+### Competition
 >DACON
 >>[2021년(제2회) NH투자증권 빅데이터 경진대회 (17.6%) 47/267](https://github.com/ChaeheePark/NH_Bigdata_Contest)
 >>
