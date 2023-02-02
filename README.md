@@ -14,7 +14,7 @@ Hello! I'm Chaehee Park!
 
 ### EDUCATION
 ✔ **Sungkyunkwan University, Seoul, Republic of Korea,  March 2023 -**
-- M.Sc in Applied Artificial Intelligence  
+- M.Sc. in Applied Artificial Intelligence  
 
 Sangmyung University, Seoul, Republic of Korea, March 2019 - Feb. 2023
 - B.S. in Human-centered AI, Applied Artificial Intelligence
@@ -28,7 +28,7 @@ Donghwa High school, Namyangju, Gyeong-gi, Republic of Korea, March 2015 - Feb.2
 ✔️ **Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Seoul, Republic of Korea,  Dec. 2022 - Present** 
 
 NC SOFT Corp., NLP Center,
-Working as Language AI Research Project Intern,     June 2022 - Sep. 2022 
+Working as Language Data Team Project Intern,     June 2022 - Sep. 2022 
 #
 
 ### PUBLICATIONS
