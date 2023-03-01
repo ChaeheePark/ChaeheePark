@@ -3,7 +3,7 @@
 Hello! I'm Chaehee Park! 
 
 
-💻 I'm interested in **Sentiment-Analysis**, **Human-centered AI**, **AI-System**
+💻 I'm interested in **Sentiment-Analysis**, **Human-centered AI**, **XAI**
 
 📝 And Studied **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
 
@@ -17,7 +17,7 @@ Hello! I'm Chaehee Park!
 - M.Sc. in Applied Artificial Intelligence  
 
 Sangmyung University, Seoul, Republic of Korea, March 2019 - Feb. 2023
-- B.S. in Human-centered AI, Applied Artificial Intelligence
+- B.S. in Human-centered AI, Applied Artificial Intelligence. (6/41)
 
 Donghwa High school, Namyangju, Gyeong-gi, Republic of Korea, March 2015 - Feb.2018
 #
