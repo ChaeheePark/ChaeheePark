@@ -33,7 +33,7 @@ Working as Language Data Team Project Intern,     June 2022 - Sep. 2022
 #
 
 ### PUBLICATIONS
-"On the Deep Generative Models Explaining the Rationale to Emotionally Supportive Conversations," Eunhye Jeong & **Chaehee Park** (equal contributions) & Hyejin Hong, and Jeehang Lee*, KOSES Autumn Conference 2022, Busan, Oct. 2022. (Domestic), Best Paper Award 🏆
+"On the Deep Generative Models Explaining the Rationale to Emotionally Supportive Conversations," Eunhye Jeong & **Chaehee Park** (equal contributions) & Hyejin Hong, and Jeehang Lee*, KOSES Autumn Conference 2022, Busan, Oct. 2022. (Domestic)
 #
 
 ### PROJECT
