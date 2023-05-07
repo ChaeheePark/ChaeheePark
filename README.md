@@ -3,7 +3,7 @@
 Hello! I'm Chaehee Park! 
 
 
-💻 I'm interested in **Human-centered AI**, **interactive DL**, **XAI**
+💻 I'm interested in **Human-centered AI**, **XAI**, **Generation AI**
 
 📝 And Studied **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
 
