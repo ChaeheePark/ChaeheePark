@@ -9,11 +9,11 @@ Hello! I'm Chaehee Park!
 
 👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R** !
 
-➿ More Information, Please see my **CV**  
+➿ More Information, Please see my **CV (not updated yet)**  
 #
 
 ### EDUCATION
-✔ **Sungkyunkwan University, Seoul, Republic of Korea,  March 2023 -**
+✔ **Sungkyunkwan University, Seoul, Republic of Korea,  March 2023 - Present**
 - M.Sc. in Applied Artificial Intelligence  
 
 Sangmyung University, Seoul, Republic of Korea, March 2019 - Feb. 2023
@@ -27,7 +27,7 @@ Donghwa High school, Namyangju, Gyeong-gi, Republic of Korea, March 2015 - Feb.2
 
 ### RESEARCH EXPERIENCE
 ✔️ **Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Seoul, Republic of Korea,  Dec. 2022 - Present** 
-
+✔️ **SKT AI Fellowship 5th generation,  June 2023 - Present ** 
 NC SOFT Corp., NLP Center,
 Working as Language Data Team Project Intern,     June 2022 - Sep. 2022 
 #
