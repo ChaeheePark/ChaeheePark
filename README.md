@@ -3,13 +3,9 @@
 Hello! I'm Chaehee Park! 
 
 
-💻 I'm interested in **Human-centered AI**, **XAI**, **Generation AI**
+💻 I'm interested in **Human-centered AI**, **Generative AI**
 
-📝 And Studied **Deep-learning**, **Machine Learning**, **Social-AI**, **Computer Vision**, **NLP**, **Database**, **Algorithm** 
-
-👩‍💻 I can use **Python**, **C++**, **SQL**, **JAVA**, **R** !
-
-➿ More Information, Please see my **CV (not updated yet)**  
+➿ More Information, Please see my **[CV](github.com/ChaeheePark/ChaeheePark/CV-231106.pdf)**  
 #
 
 ### EDUCATION
