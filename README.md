@@ -5,7 +5,7 @@ Hello! I'm Chaehee Park!
 
 💻 I'm interested in **Human-centered AI**, **Generative AI**
 
-➿ More Information, Please see my **[CV](github.com/ChaeheePark/ChaeheePark/CV-231106.pdf)**  
+➿ More Information, Please see my **[CV](https://github.com/ChaeheePark/ChaeheePark/blob/main/CV-231106.pdf)**  
 #
 
 ### EDUCATION
