@@ -3,9 +3,9 @@
 Hello! I'm Chaehee Park! 
 
 
-💻 I'm interested in **Generative AI**, **AI for Social Good**, **Human-Centered AI**
+💻 I'm interested in **Generative AI**, **Comupter Vision**, **AI for Social Good**, **Human-Centered AI**
 
-➿ Please see my **[CV](https://github.com/ChaeheePark/ChaeheePark/blob/main/CV-231106.pdf)**  
+➿ Please see my **[CV](https://github.com/ChaeheePark/ChaeheePark/blob/main/CV-231201.pdf)**  
 #
 
 ### EDUCATION
@@ -27,7 +27,7 @@ Donghwa High School, Namyangju, Gyeonggi, Republic of Korea, March 2015 - Feb.20
 ✔SKT AI Fellowship 5th generation,  June 2023 - Nov. 2023
 
 NC SOFT Corp., NLP Center,
-Working as Language Data Team Project Intern,     June 2022 - Sep. 2022 
+Working as Language Data Team assistant,     June 2022 - Sep. 2022 
 #
 
 ### PUBLICATIONS
